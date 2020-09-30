@@ -1,0 +1,10 @@
+{
+    "navigationBarTitleText": "记录查看",
+    "navigationBarBackgroundColor": "#242725",
+    "navigationBarTextStyle":"white",
+    "navigationStyle":"custom",
+    "usingComponents":{
+        "van-icon":"/static/vant/icon/index"
+    },
+    "enablePullDownRefresh":true
+}

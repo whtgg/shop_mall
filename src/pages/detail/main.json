@@ -1,0 +1,9 @@
+{
+    "navigationBarTitleText": "详情",
+    "navigationBarBackgroundColor": "#242725",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh":true,
+    "usingComponents":{
+        "van-icon":"/static/vant/icon/index"
+    }
+}
